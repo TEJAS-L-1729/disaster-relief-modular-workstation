@@ -81,4 +81,6 @@ Developed by **Akula Uday Kiran, Kiran V Airani, Shanthosh K V, and Tejas L** â€
 
 Submitted for the Vyoma Design-a-thon, Problem Statement 4 (May 2025).
 
+---
+
 ## Recognition ![Award Ceremony](IMAGES/AWARDING.jpeg) *Team receiving the Runner-Up award at Vyoma Design-a-thon*
