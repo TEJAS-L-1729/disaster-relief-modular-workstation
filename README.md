@@ -4,7 +4,7 @@
 
 An air-deployable, modular field station designed to provide power, communication, medical support, and survival resources within minutes of a natural disaster striking a remote or infrastructure-damaged region.
 
-![Final Assembly](images/CAD_image_2.png)
+![Final Assembly](IMAGES/CAD_image_2.png)
 *Full system with parachute deployed during descent phase*
 
 ---
@@ -42,7 +42,7 @@ The team calculated terminal velocity using standard drag equations, then valida
 - Without parachute: **~30.7 m/s**
 - With parachute deployed: **~6.2 m/s** (analytical) — confirmed by CFD at **~6 m/s**
 
-![CFD Descent Analysis](images/Parachute_sim.png)
+![CFD Descent Analysis](IMAGES/Parachute_sim.png)
 *CFD velocity contour of the parachute-airbag descent phase*
 
 ### Structural Validation (FEA)
@@ -50,15 +50,15 @@ Static structural simulations were run for worst-case corner-impact scenarios at
 
 | Impact Case | Max Deformation | Result |
 |---|---|---|
-| One corner | 0.80 mm | ![One corner](images/strees_sim.png) |
-| Two corners | 1.83 mm | ![Two corners](images/Deform2.png) |
-| All four corners | 1.0 mm | ![All corners](images/deform3.png) |
+| One corner | 0.80 mm | ![One corner](IMAGES/strees_sim.png) |
+| Two corners | 1.83 mm | ![Two corners](IMAGES/Deform2.png) |
+| All four corners | 1.0 mm | ![All corners](IMAGES/deform3.png) |
 
 ---
 
 ## Internal Layout
 
-![Internal Module Layout](images/CAD_image.png)
+![Internal Module Layout](IMAGES/CAD_image.png)
 *Cutaway view showing the internal arrangement of survival kit, power system, and structural components*
 
 ---
