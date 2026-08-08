@@ -4,7 +4,7 @@
 
 An air-deployable, modular field station designed to provide power, communication, medical support, and survival resources within minutes of a natural disaster striking a remote or infrastructure-damaged region.
 
-![Final Assembly](IMAGES/CAD_image_2.png)
+![Final Assembly](IMAGES/CAD image_2.png)
 *Full system with parachute deployed during descent phase*
 
 ---
