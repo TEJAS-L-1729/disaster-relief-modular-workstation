@@ -71,7 +71,7 @@ In the aftermath of a disaster, the workstation is air-dropped from ~1000 m alti
 
 ## Tools & Technologies
 
-`SolidWorks` `ANSYS Fluent (CFD)` `Finite Element Analysis (FEA)` `Raspberry Pi 5` `IoT Dashboard` `GPS/IMU Navigation`
+`SolidWorks` `ANSYS Fluent (CFD)` `Finite Element Analysis (FEA)`
 
 ---
 
