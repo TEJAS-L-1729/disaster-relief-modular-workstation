@@ -58,7 +58,7 @@ Static structural simulations were run for worst-case corner-impact scenarios at
 
 ## Internal Layout
 
-![Internal Module Layout](IMAGES/CAD image.png)
+![Internal Module Layout](IMAGES/CAD_image.png)
 *Cutaway view showing the internal arrangement of survival kit, power system, and structural components*
 
 ---
